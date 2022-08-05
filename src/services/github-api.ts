@@ -3,7 +3,7 @@ import axios from 'axios';
 export const authParams = {
   auth: {
     username: 'amigos4512',
-    password: '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',
+    password: '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',
   },
 };
 
