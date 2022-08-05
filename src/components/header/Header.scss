@@ -1,0 +1,13 @@
+.nav {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: aqua;
+
+  &_name {
+    a {
+      text-decoration: none;
+    }
+  }
+}
