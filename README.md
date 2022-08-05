@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### !!! If there any error with credentials, you could try change it by yours in /src/services/github-api.ts or just replace it, to use limited api.
+
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
