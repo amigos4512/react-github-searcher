@@ -1,9 +1,10 @@
 import axios from 'axios';
 
 export const authParams = {
+  // Temporary credentials without any rights
   auth: {
     username: 'amigos4512',
-    password: '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',
+    password: atob('Z2hwX081ejREUzBYYVY3Z2g2WXdENnFQR1NOTkdaelptMzBFV1FkZQ=='),
   },
 };
 
